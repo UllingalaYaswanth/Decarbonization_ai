@@ -126,7 +126,6 @@ const vehicles = [
     manufacturer:'Ashok Leyland',
     location:"Maharashtra",
     chassisNo: "MBL4D4BXYH123456",
-    location:"Maharashtra",
   },
   {
     image: lorry2 ,
@@ -162,14 +161,6 @@ const vehicles = [
     TruckName:"Mahindra Bolero Pik-Up",
     year:'2015',
     manufacturer:'Mahindra',
-    chassisNo: "RCL4D4BXYH123456",
-    capacity: "15 tons",
-    fuel: "Diesel",
-    lastMaintenanceDate: "2024-06-15",
-    RUL: "3000 km",
-    TruckName:"Ashok Leyland Dost",
-    year:'2010',
-    manufacturer:'Ashok Leyland',
     location:"Tamil Nadu"
   },
   {
