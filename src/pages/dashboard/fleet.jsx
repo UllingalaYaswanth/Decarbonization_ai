@@ -3,7 +3,7 @@ import { Typography, Card, CardBody, Button, Input } from "@material-tailwind/re
 import { useNavigate } from "react-router-dom";
 import LorryImage from "./img/Ashok_LP.jpg";
 import lorry2 from "./img/tata_ace.jpg"
-import lorry3 from "./img/mahindra_b.jpg"
+import lorry3 from "./img/mahindra_dost.jpg"
 import lorry4 from "./img/mahindra_dost.jpg"
 import lorry5 from "./img/lorry.jpg"
 import lorry6 from "./img/mahindra_f.jpg"
